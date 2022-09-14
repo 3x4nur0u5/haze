@@ -7,8 +7,8 @@ Style derived from Gazelle Postmod
 *********************************************************/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,bold);
-@import url(https://gitcdn.link/cdn/exanurous/haze_pth/master/theme-dark.css);
-@import url(https://gitcdn.link/cdn/exanurous/haze_pth/master/panel-dark.css);
+@import url(https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/theme-dark.css);
+@import url(https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/panel-dark.css);
 
 /* Background Image */
 body {
