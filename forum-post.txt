@@ -9,27 +9,27 @@
 
 [size=6]Themes[/size]
 
-Original: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/style.css
+Original: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@491fedf/style.css
 [url=http://i.imgur.com/JNHPWdO.png][img]http://i.imgur.com/NpBRBy2.png[/img][/url]
 
 
-Colorless: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/style-colorless.css
+Colorless: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@491fedf/style-colorless.css
 [url=http://i.imgur.com/s8x5pKJ.png][img]http://i.imgur.com/Zv9CqGZ.png[/img][/url]
 
 
-Light: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/style-light.css
+Light: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@491fedf/style-light.css
 [url=http://i.imgur.com/pvoV2P1.jpg][img]http://i.imgur.com/yAk4iWk.png[/img][/url]
 
 
-Dark: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/style-dark.css
+Dark: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@491fedf/style-dark.css
 [url=http://i.imgur.com/cEvdhqw.png][img]http://i.imgur.com/eeNtmvi.png[/img][/url]
 
 
-Blur: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/style-blur.css
+Blur: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@491fedf/style-blur.css
 [url=http://i.imgur.com/a9NYx6n.jpg][img]http://i.imgur.com/Tm8BixM.png[/img][/url]
 
 
-Blur with panel: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@main/style-panel-blur.css
+Blur with panel: https://cdn.jsdelivr.net/gh/3x4nur0u5/haze@491fedf/style-panel-blur.css
 [url=http://i.imgur.com/5tm2AyP.jpg][img]http://i.imgur.com/MtOHoDf.png[/img][/url]
 
 Click banners for full-size preview images.
