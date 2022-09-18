@@ -14,3 +14,4 @@ Style derived from Gazelle Postmod
 /* Background Image */
 body          {background-image: url('images/wood.jpeg');}
 #extra3:after {background-image: url('images/wood.jpeg');}
+#extra3:after {filter: blur(12px) brightness(50%);}
